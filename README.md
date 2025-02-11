@@ -1,5 +1,5 @@
-# DiffImp
-Code for the paper: "DiffImp: Efficient Diffusion Model for Probabilistic Time Series Imputation with Bidirectional Mamba Backbone"
+# SSD-TS
+Code for the paper: "SSD-TS: Exploring the potential of linear state space models for diffusion models in time series imputation"
 
 ## Requirements
 Python==3.10.15
